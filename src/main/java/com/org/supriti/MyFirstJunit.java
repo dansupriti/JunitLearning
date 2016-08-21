@@ -2,6 +2,7 @@ package com.org.supriti;
 
 import java.util.Arrays;
 
+//my first junit test class
 public class MyFirstJunit {
 	public String checkString(String requestString){
 		if(requestString == null || requestString.isEmpty()){
